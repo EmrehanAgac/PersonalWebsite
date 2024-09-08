@@ -1,0 +1,97 @@
+﻿@model _PersonalWebsite.ViewModels.IndexVM
+
+<!-- Sub Header -->
+<!-- Wrapper -->
+<div id="wrapper">
+
+	<!-- Header -->
+	<header id="header">
+			<div class="logo">
+				<span class="fas fa-code fa-2x"></span>
+
+			</div>
+
+
+		
+		<div class="content">
+			<div class="inner">
+				<h1>@Model.HomePage.HomeName</h1>
+				<p>
+					@Model.HomePage.HomeTitle
+					
+				</p>
+			</div>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="#intro">@Model.HomePage.Menu1</a></li>
+				<li><a href="#work">@Model.HomePage.Menu2</a></li>
+				<li><a href="#about">@Model.HomePage.Menu3</a></li>
+				<li><a href="#contact">@Model.HomePage.MenuContact</a></li>
+				<!--<li><a href="#elements">Elements</a></li>-->
+			</ul>
+		</nav>
+	</header>
+
+<!-- ***** Header Area End ***** -->
+
+
+
+
+
+<!-- Main -->
+<div id="main">
+
+
+		<!-- Intro -->
+		<article id="intro">
+			<h2 class="@Model.HomePage.Menu1">@Model.HomePage.Menu1</h2>
+			<p>@Model.Intro.IntroText</p>
+			<p>@Model.Intro.IntroText2</p>
+		</article>
+
+	<!-- Work -->
+		<article id="work">
+			<h2 class="@Model.HomePage.Menu2">@Model.HomePage.Menu2</h2>
+			<p>@Model.Work.WorkText</p>
+			<p>@Model.Work.WorkText</p>
+		</article>
+
+	<!-- About -->
+		<article id="about">
+			<h2 class="@Model.HomePage.Menu3">@Model.HomePage.Menu3</h2>
+			<p>@Model.About.AboutText</p>
+			<p>@Model.About.AboutText2</p>
+		</article>
+
+	<!-- Contact -->
+		<article id="contact">
+			<h2 class="@Model.HomePage.MenuContact">Contact</h2>
+			<form method="post" action="#">
+				<div class="fields">
+					<div class="field half">
+						<form action="@Model.SocialMedia.Cv" method="get" target="_blank">
+							<ul class="actions">
+								<li><input type="submit" value="Send Message" class="primary" /></li>
+							</ul>
+						</form>
+					</div>
+
+				</div>
+
+			</form>
+			<ul class="icons">
+				<li><a href="@Model.SocialMedia.Linkedin" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
+				<li><a href="@Model.SocialMedia.GitHub" class="icon brands fa-github"><span class="label">Github</span></a></li>
+				<li><a href="mailto:emrehan464@gmail.com " class="far fa-envelope"><span class="label"></span></a></li>
+			</ul>
+		</article>
+</div>
+	<!-- Footer -->
+	<footer id="footer">
+		
+	</footer>
+
+</div>
+
+

@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\AppData\\Local\\Temp\\.vsdbgsrc\\2c2cc32e1a12064751c0359d3e33c82c5ea44bc4194a7a1a03ad066aa407eba7\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\models\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:models\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\models\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:models\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\viewmodels\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:viewmodels\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\tools\\generaltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:tools\\generaltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|c:\\users\\emrehan\\desktop\\projeler\\github\\personalwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB93346-F9C4-4D6C-85DD-1F37A4D06338}|Personalwebsite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\HeaderViewComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\FooterViewComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Header\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Footer\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\SocialMedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewModels\\HeaderVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\HomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\About.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Intro.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Intro.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Intro.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Intro.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Intro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:22:07.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\About.cs",
+              "RelativeDocumentMoniker": "Models\\About.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\About.cs",
+              "RelativeToolTip": "Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:29:37.534Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAJoSAAAAAAAAAAAqwLUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-02T05:37:09.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:21:11.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:14:58.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\ViewModels\\IndexVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\IndexVM.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\ViewModels\\IndexVM.cs",
+              "RelativeToolTip": "ViewModels\\IndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:10:21.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:23:15.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\HomePage.cs",
+              "RelativeDocumentMoniker": "Models\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\HomePage.cs",
+              "RelativeToolTip": "Models\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:53:23.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Intro.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\Intro.cs",
+              "RelativeDocumentMoniker": "Models\\Intro.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\Intro.cs",
+              "RelativeToolTip": "Models\\Intro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:43:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "Models\\Work.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\Work.cs",
+              "RelativeToolTip": "Models\\Work.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:43:18.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "Models\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Models\\SocialMedia.cs",
+              "RelativeToolTip": "Models\\SocialMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:43:28.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:10:25.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:10:28.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:10:48.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:44:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:11:38.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\AppData\\Local\\Temp\\.vsdbgsrc\\2c2cc32e1a12064751c0359d3e33c82c5ea44bc4194a7a1a03ad066aa407eba7\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2c2cc32e1a12064751c0359d3e33c82c5ea44bc4194a7a1a03ad066aa407eba7\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\AppData\\Local\\Temp\\.vsdbgsrc\\2c2cc32e1a12064751c0359d3e33c82c5ea44bc4194a7a1a03ad066aa407eba7\\HomeController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2c2cc32e1a12064751c0359d3e33c82c5ea44bc4194a7a1a03ad066aa407eba7\\HomeController.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:32:56.404Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\SocialMedia.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\SocialMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:21:20.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Work.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Work.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Work.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\Work.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:21:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:11:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T04:11:41.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HeaderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewModels\\HeaderVM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewModels\\HeaderVM.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewModels\\HeaderVM.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\ViewModels\\HeaderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:23:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\HomePage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\HomePage.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:21:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\About.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\About.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\About.cs",
+              "RelativeToolTip": "..\\..\\..\\\u00D6dev\\Personalwebsite\\Personalwebsite\\Migrations\\About.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:21:21.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:11:40.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeneralTools.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Tools\\GeneralTools.cs",
+              "RelativeDocumentMoniker": "Tools\\GeneralTools.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Tools\\GeneralTools.cs",
+              "RelativeToolTip": "Tools\\GeneralTools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:23:23.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emrehan\\Desktop\\Projeler\\Github\\PersonalWebsite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:11:43.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
